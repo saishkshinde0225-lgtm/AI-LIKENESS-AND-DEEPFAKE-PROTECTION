@@ -1,0 +1,9 @@
+# Runtime dependencies
+fastapi>=0.111
+uvicorn[standard]>=0.29
+motor>=3.4
+pymongo>=4.7
+pydantic>=2.7
+minio>=7.2
+pillow>=10.3
+python-multipart>=0.0.9
